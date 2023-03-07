@@ -24,3 +24,6 @@ hs_err_pid*
 
 # IntelliJ Idea IDE
 .idea
+
+# MacOs meta files
+.DS_Store
