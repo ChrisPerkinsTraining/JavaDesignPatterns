@@ -1,0 +1,16 @@
+com/pluralsight/creational/singleton/DbSingletonDemo.class
+com/pluralsight/structural/adapter/EmployeeAdapterLdap.class
+com/pluralsight/structural/adapter/AdapterEverydayDemo.class
+com/pluralsight/creational/prototype/PrototypeEverydayDemo.class
+com/pluralsight/creational/builder/BuilderEverydayDemo.class
+com/pluralsight/structural/bridge/Shape1BridgeDemo.class
+com/pluralsight/structural/adapter/EmployeeAdapterCSV.class
+com/pluralsight/structural/adapter/AdapterDemo.class
+com/pluralsight/creational/singleton/DbSingleton.class
+com/pluralsight/structural/adapter/EmployeeDB.class
+com/pluralsight/structural/adapter/EmployeeClient.class
+com/pluralsight/structural/adapter/EmployeeLdap.class
+com/pluralsight/structural/adapter/Employee.class
+com/pluralsight/creational/singleton/SingletonEverydayDemo.class
+com/pluralsight/Main.class
+com/pluralsight/structural/adapter/EmployeeCSV.class
